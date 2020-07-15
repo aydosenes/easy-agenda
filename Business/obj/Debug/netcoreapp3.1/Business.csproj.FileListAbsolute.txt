@@ -1,0 +1,15 @@
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\bin\Debug\netcoreapp3.1\Business.runtimeconfig.json
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\bin\Debug\netcoreapp3.1\Business.runtimeconfig.dev.json
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\obj\Debug\netcoreapp3.1\Business.genruntimeconfig.cache
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Enes Aydos\Desktop\EasyAgenda\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
